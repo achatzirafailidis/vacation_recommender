@@ -8,7 +8,7 @@ This project was my final project for the Spiced Academy, Data Science course. T
 * [Technologies](#technologies)
 * [Data](#data) 
 * [Methodology](#methodology)
-* [Future Work] (#future_work)
+* [Future Work] (#future work)
 
 ## Technologies
 Project is created with:
