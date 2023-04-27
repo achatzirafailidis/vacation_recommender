@@ -8,7 +8,7 @@ This project was my final project for the Spiced Academy, Data Science course. T
 * [Technologies](#technologies)
 * [Data](#data) 
 * [Methodology](#methodology)
-* [Future] (#future)
+* [Future Work](#future work)
 
 ## Technologies
 Project is created with:
@@ -27,6 +27,6 @@ The data used have been retrieved by Flickr and TripAdvisor, through FlickrAPI a
 
 The first version of the project used images from flickr for a list of 100 locations, to classify them between sea, mountain and city. Then based on a user prompt the user input text is cleaned(first version is using only nouns) and then using spacy checked against Flickr tags for semantic similarity. For example the use of hte prompt "I would like to go hiking in nature" produced as first recommendation the Trolltunga mountain. Future iterations will remove the image classification part and will only use NLP to analyse user prompts to produce better results
 
-## Future
+## Future Work
 
 The next iteration will use word vectors to check for semantic similarity between the user prompt and Tripadvisor reviews and use BERT based models for sentiment analysis, to exclude overly negative prompts
